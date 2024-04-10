@@ -5,7 +5,7 @@
 
 Пример
 ```
-$connect = mysqli_connect("https://edgesection.ru", "user", "password", "databese") or die("err mc");
+$connect = mysqli_connect("https://edgesection.ru", "user", "password", "database") or die("err mc");
 ```
 
 Пример сайта: [Журнал учёта успеваемости студентов](https://edgesection.ru/module/test/korytov.php).
